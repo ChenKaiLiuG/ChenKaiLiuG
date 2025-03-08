@@ -2,7 +2,7 @@
 Ruan Mei considered me as a golden retriever, but Misumi Hatsune is Togawa Sakiko's golden retriever.
 
 ## <summary>My Favorite</summary>
-
+![RuanMei](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/RuanMei.jpeg?token=GHSAT0AAAAAADAEFD5SLIETXXCSJ3KOCVLEZ6MN6GA)
 <!--
 **ChenKaiLiuG/ChenKaiLiuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
