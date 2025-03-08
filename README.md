@@ -7,6 +7,10 @@ Ruan Mei considered me as a golden retriever, but Misumi Hatsune is Togawa Sakik
 
 ## My Favorite
 ![RuanMei](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/RuanMei.jpeg)
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ChenKaiLiuG&include_all_commits=true&show_icons=true&theme=neon)
+![Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5)
 <!--
 **ChenKaiLiuG/ChenKaiLiuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
