@@ -1,5 +1,9 @@
 ## About
+I'm a student in YukiLab.
+Professor @tobichi3227 :place_of_worship: :place_of_worship: :place_of_worship: 
+
 Ruan Mei considered me as a golden retriever, but Misumi Hatsune is Togawa Sakiko's golden retriever.
+![Uika_lies](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/Uika_can_only_lies.jpg?token=GHSAT0AAAAAADAEFD5SU2QPVYHP6QRQ7OGQZ6MOKQQ)
 
 ## My Favorite
 ![RuanMei](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/RuanMei.jpeg?token=GHSAT0AAAAAADAEFD5SLIETXXCSJ3KOCVLEZ6MN6GA)
