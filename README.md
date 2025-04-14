@@ -7,11 +7,12 @@ Ruan Mei considered me as a golden retriever, but Misumi Hatsune is Togawa Sakik
 ![Uika_lies](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/Uika_can_only_lies.jpg)
 -->
 
+<!--
 ## My Favorite
 Ruan Mei is my wife.
 
 ![RuanMei](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/RuanMei.jpeg)
-
+-->
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChenKaiLiuG&show_icons=true&theme=neon&include_all_commits=true)   
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&theme=neon)
