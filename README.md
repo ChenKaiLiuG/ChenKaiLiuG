@@ -14,8 +14,8 @@ Ruan Mei is my wife.
 ![RuanMei](https://raw.githubusercontent.com/ChenKaiLiuG/ChenKaiLiuG/refs/heads/main/RuanMei.jpeg)
 -->
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ChenKaiLiuG&show_icons=true&theme=neon&exclude_repo=12th_grade_python&include_all_commits=true)   
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&theme=neon)
+![Stats](https://github-readme-stats.vercel.app/api?username=ChenKaiLiuG&show_icons=true&theme=neon&include_all_commits=true)   
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&exclude_repo=12th_grade_python&theme=neon)
 
 ## 期間限定
 [大糞警告](https://chenkailiug.github.io/114514)   
