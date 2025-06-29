@@ -19,7 +19,7 @@ Ruan Mei is my wife.
 
 ## Current Projects
 [Discord Bot](https://github.com/ChenKaiLiuG/Discord_backup_bot)  
-[惡臭計時器(大糞警告)](https://chenkailiug.github.io/114514)   
+[惡臭計時器](https://github.com/ChenKaiLiuG/114514) [(大糞警告)](https://chenkailiug.github.io/114514)   
 好網站 來臨力
 <!--
 **ChenKaiLiuG/ChenKaiLiuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
