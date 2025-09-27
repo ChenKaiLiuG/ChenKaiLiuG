@@ -16,6 +16,7 @@ Ruan Mei is my wife.
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChenKaiLiuG&show_icons=true&theme=neon&include_all_commits=true)   
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&exclude_repo=12th_grade_python&theme=neon)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=ChenKaiLiuG&theme=neon&hide_border=true)
 
 ## Current Projects
 [Discord Bot](https://github.com/ChenKaiLiuG/Discord_backup_bot)  
