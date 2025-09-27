@@ -1,6 +1,7 @@
 ## About
 I'm a student in YukiLab.  
 Professor [@tobiichi3227](https://github.com/tobiichi3227) :place_of_worship: :place_of_worship: :place_of_worship:   
+[Karylab Forum](https://forum.karylab.com) owner 
 <!--
 Ruan Mei considered me as a golden retriever, but Misumi Hatsune is Togawa Sakiko's golden retriever.
 
@@ -18,11 +19,12 @@ Ruan Mei is my wife.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiLiuG&layout=compact&exclude_repo=12th_grade_python&theme=neon&hide_border=true)  
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=ChenKaiLiuG&theme=neon&hide_border=true)
 
+<!--
 ## Current Projects
 [Discord Bot](https://github.com/ChenKaiLiuG/Discord_backup_bot)  
 [惡臭計時器](https://github.com/ChenKaiLiuG/114514) [(大糞警告)](https://chenkailiug.github.io/114514)   
 好網站 來臨力
-<!--
+
 **ChenKaiLiuG/ChenKaiLiuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
